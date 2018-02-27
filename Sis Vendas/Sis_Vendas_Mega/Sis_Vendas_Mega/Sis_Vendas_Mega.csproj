@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A62D551-FCD7-48B3-B832-3E5428E349C2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sis_Vendas_Mega</RootNamespace>
+    <AssemblyName>Sis_Vendas_Mega</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>SisVendasMega</ProductName>
+    <PublisherName>aecio</PublisherName>
+    <SuiteName>sisvendas</SuiteName>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>E53F07858EF7857DD051C910CE153BC299C39036</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Sis_Vendas_Mega_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="LibraryConnection, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LibraryConnection\obj\Debug\LibraryConnection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bll\ClienteBll.cs" />
+    <Compile Include="Bll\EstoqueBll.cs" />
+    <Compile Include="Bll\UsuarioBll.cs" />
+    <Compile Include="Bll\VendaBll.cs" />
+    <Compile Include="Form\Caixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Caixa.Designer.cs">
+      <DependentUpon>Caixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dao\ClienteDao.cs" />
+    <Compile Include="Dao\EstoqueDao.cs" />
+    <Compile Include="Dao\UsuarioDao.cs" />
+    <Compile Include="Dao\VendaDao.cs" />
+    <Compile Include="FormCloseButtonDisabler.cs" />
+    <Compile Include="Form\ManutencaoEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\ManutencaoEstoque.Designer.cs">
+      <DependentUpon>ManutencaoEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\ManutencaoUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\ManutencaoUsuarios.Designer.cs">
+      <DependentUpon>ManutencaoUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Pdv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Pdv.Designer.cs">
+      <DependentUpon>Pdv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\PesquisarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\PesquisarCliente.Designer.cs">
+      <DependentUpon>PesquisarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\login_sistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\login_sistema.Designer.cs">
+      <DependentUpon>login_sistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\CadastrarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\CadastrarUsuarios.Designer.cs">
+      <DependentUpon>CadastrarUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\CadastrarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\CadastrarClientes.Designer.cs">
+      <DependentUpon>CadastrarClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\PesquisarEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\PesquisarEstoque.Designer.cs">
+      <DependentUpon>PesquisarEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\CadastrarEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\CadastrarEstoque.Designer.cs">
+      <DependentUpon>CadastrarEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\ManutencaoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\ManutencaoCliente.Designer.cs">
+      <DependentUpon>ManutencaoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Cliente.cs" />
+    <Compile Include="Model\Estoque.cs" />
+    <Compile Include="Model\ItensPedido.cs" />
+    <Compile Include="Model\Pedido.cs" />
+    <Compile Include="Model\Usuario.cs" />
+    <Compile Include="Form\Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\PosicaoEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\PosicaoEstoque.Designer.cs">
+      <DependentUpon>PosicaoEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovimentoEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovimentoEstoque.Designer.cs">
+      <DependentUpon>MovimentoEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Form\RelacaoVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\RelacaoVendas.Designer.cs">
+      <DependentUpon>RelacaoVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form\TelaPosiVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\TelaPosiVenda.Designer.cs">
+      <DependentUpon>TelaPosiVenda.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form\Caixa.resx">
+      <DependentUpon>Caixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\CadastrarUsuarios.resx">
+      <DependentUpon>CadastrarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\ManutencaoEstoque.resx">
+      <DependentUpon>ManutencaoEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\ManutencaoCliente.resx">
+      <DependentUpon>ManutencaoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\ManutencaoUsuarios.resx">
+      <DependentUpon>ManutencaoUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Pdv.resx">
+      <DependentUpon>Pdv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\PesquisarCliente.resx">
+      <DependentUpon>PesquisarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\login_sistema.resx">
+      <DependentUpon>login_sistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\CadastrarClientes.resx">
+      <DependentUpon>CadastrarClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\PesquisarEstoque.resx">
+      <DependentUpon>PesquisarEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\CadastrarEstoque.resx">
+      <DependentUpon>CadastrarEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\PosicaoEstoque.resx">
+      <DependentUpon>PosicaoEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovimentoEstoque.resx">
+      <DependentUpon>MovimentoEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\RelacaoVendas.resx">
+      <DependentUpon>RelacaoVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\MovimentoEstoque.rdlc" />
+    <EmbeddedResource Include="Form\TelaPosiVenda.resx">
+      <DependentUpon>TelaPosiVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\Sis_Vendas_Mega.Relatorios.DadosRelatorioMestre.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\Usuário-HM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\logomarca.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\cesta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\cliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\produto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\novo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\deletar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\sair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\sair 32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\salvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\fundo_login.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\botao.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\FUNDO-AÇO-PRATA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\prata.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\fundo-azul.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\lixeira.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\lupa-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\limpar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\400px-Broom_icon_svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\LogoPrincipal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\fundo-azul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\atualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\selecionar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\frente_caixa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Img\cadastro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DataSet\" />
+    <Folder Include="FormRelatorios\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

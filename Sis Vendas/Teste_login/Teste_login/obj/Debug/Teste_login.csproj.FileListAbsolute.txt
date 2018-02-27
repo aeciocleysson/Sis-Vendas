@@ -1,0 +1,9 @@
+C:\Users\Aécio\Desktop\Sis Vendas\Teste_login\Teste_login\bin\Debug\Teste_login.exe.config
+C:\Users\Aécio\Desktop\Sis Vendas\Teste_login\Teste_login\bin\Debug\Teste_login.exe
+C:\Users\Aécio\Desktop\Sis Vendas\Teste_login\Teste_login\bin\Debug\Teste_login.pdb
+C:\Users\Aécio\Desktop\Sis Vendas\Teste_login\Teste_login\obj\Debug\Teste_login.csprojResolveAssemblyReference.cache
+C:\Users\Aécio\Desktop\Sis Vendas\Teste_login\Teste_login\obj\Debug\Teste_login.Form1.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Teste_login\Teste_login\obj\Debug\Teste_login.Properties.Resources.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Teste_login\Teste_login\obj\Debug\Teste_login.csproj.GenerateResource.Cache
+C:\Users\Aécio\Desktop\Sis Vendas\Teste_login\Teste_login\obj\Debug\Teste_login.exe
+C:\Users\Aécio\Desktop\Sis Vendas\Teste_login\Teste_login\obj\Debug\Teste_login.pdb

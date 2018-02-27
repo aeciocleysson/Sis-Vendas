@@ -1,0 +1,11 @@
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\LibraryConnection\bin\Debug\LibraryConnection.dll
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\LibraryConnection\bin\Debug\LibraryConnection.pdb
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\LibraryConnection\obj\Debug\LibraryConnection.csprojResolveAssemblyReference.cache
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\LibraryConnection\obj\Debug\LibraryConnection.dll
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\LibraryConnection\obj\Debug\LibraryConnection.pdb
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\LibraryConnection\bin\Debug\LibraryConnection.pdb
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\LibraryConnection\bin\Debug\itextsharp.dll
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\LibraryConnection\bin\Debug\itextsharp.xml
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\LibraryConnection\obj\Debug\LibraryConnection.csprojResolveAssemblyReference.cache
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\LibraryConnection\obj\Debug\LibraryConnection.dll
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\LibraryConnection\obj\Debug\LibraryConnection.pdb

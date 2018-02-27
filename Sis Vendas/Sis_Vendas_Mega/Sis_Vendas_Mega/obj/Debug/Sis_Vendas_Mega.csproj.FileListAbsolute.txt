@@ -1,0 +1,81 @@
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\Sis_Vendas_Mega.exe.config
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\Sis_Vendas_Mega.exe
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\Sis_Vendas_Mega.pdb
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.csprojResolveAssemblyReference.cache
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.Properties.Resources.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.csproj.GenerateResource.Cache
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.exe
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.pdb
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_login.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\LibraryConnection.dll
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\LibraryConnection.pdb
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_usuario.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.Principal.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_pdv.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cad_cli.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cad_produto.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.login__sistema.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cad_usuario.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cliente.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_pesquisar_prod.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_produto.resources
+C:\Users\Aécio\Desktop\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_manu_cliente.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\Sis_Vendas_Mega.exe.config
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.exe
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.pdb
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\Sis_Vendas_Mega.exe
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\Sis_Vendas_Mega.pdb
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\LibraryConnection.dll
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\LibraryConnection.pdb
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.csprojResolveAssemblyReference.cache
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cad_usuario.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cad_produto.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_manu_cliente.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_usuario.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.Principal.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_pdv.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cad_cli.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.login__sistema.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cliente.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_pesquisar_prod.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_produto.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.Properties.Resources.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.csproj.GenerateResource.Cache
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.Caixa.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\Sis_Vendas_Mega.exe.config
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.exe
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.pdb
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.csprojResolveAssemblyReference.cache
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.Caixa.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cad_usuario.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_login.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cad_produto.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_manu_cliente.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_usuario.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.Principal.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_pdv.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cad_cli.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.login__sistema.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_cliente.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_pesquisar_prod.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.frm_produto.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.Properties.Resources.resources
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.csproj.GenerateResource.Cache
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\Sis_Vendas_Mega.exe
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\Sis_Vendas_Mega.pdb
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\LibraryConnection.dll
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\MySql.Data.dll
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\LibraryConnection.pdb
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\MySql.Data.xml
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\RdlCompile.cache
+C:\Users\Cameras\Documents\Visual Studio 2015\Projects\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\RdlCompile.compiled
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\Sis_Vendas_Mega.exe.manifest
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\bin\Debug\Sis_Vendas_Mega.application
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.exe.manifest
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.application
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.RelacaoVendas.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\RdlCompile.cache
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\RdlCompile.compiled
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.PosicaoEstoque.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.TelaPosiVenda.resources
+C:\Users\SBH-TI\Desktop\Desenvolvimento\Projetos C#\Sis Vendas\Sis_Vendas_Mega\Sis_Vendas_Mega\obj\Debug\Sis_Vendas_Mega.MovimentoEstoque.resources
